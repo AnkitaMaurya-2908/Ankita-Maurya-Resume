@@ -1,6 +1,6 @@
 # Ankita Maurya  
 **MERN Stack Developer**  
-📧 ankitamaurya2908@gmail.com | 🔗 https://www.linkedin.com/in/ankita-maurya-dev/ | 💻 https://github.com/AnkitaMaurya-2908
+<sub>📧 ankitamaurya2908@gmail.com | 🔗 https://www.linkedin.com/in/ankita-maurya-dev/ | 💻 https://github.com/AnkitaMaurya-2908</sub>
 
 ---
 ## 👩‍💻 Profile  
