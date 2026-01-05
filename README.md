@@ -4,10 +4,8 @@
 
 ---
 ## 👩‍💻 Profile  
-MERN Stack Developer with hands-on experience building responsive, scalable, and visually polished web applications. Skilled in
-React, Next.js, Tailwind CSS, Node.js, Express, and MongoDB, with a strong focus on clean UI/UX and smooth user interactions using
-Framer Motion. Experienced in remote collaboration, API integration, SEO optimization, and delivering production-ready projects
-through internships and freelance work.
+
+MERN Stack Developer with hands-on experience building responsive, scalable web applications. Skilled in React, Next.js, Tailwind CSS, Node.js, Express, and MongoDB, with a focus on clean UI/UX, smooth interactions, API integration, SEO, and production-ready delivery through internships and freelance work.
 
 ---
 ## 🛠️ Skills  
