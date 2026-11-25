@@ -5,7 +5,8 @@
 ---
 ## 👩‍💻 Profile  
 
-#### Frontend Developer with hands on experience building responsive, user friendly web interfaces using HTML, CSS, JavaScript, React.js and Tailwind CSS. Skilled in developing reusable components, responsive layouts, API integrations, and production ready web experiences. Have contributed to multiple live client projects and independently delivered responsive websites and web interfaces. Currently exploring opportunities as a Frontend Developer or React Developer to contribute to real-world projects and grow as a frontend engineer.
+Frontend Developer with hands on experience building responsive, user friendly web interfaces using HTML, CSS, JavaScript, React.js and Tailwind CSS. Skilled in developing reusable components, responsive layouts, API integrations, and production ready web experiences. Have contributed to multiple live client projects and independently delivered responsive websites and web interfaces. Currently exploring opportunities as a Frontend Developer or React Developer to contribute to real-world projects and grow as a frontend engineer.
+
 ---
 ## 🛠️ Skills  
 - **Frontend Technologies**: HTML5, CSS3, JavaScript (ES6+), React.js
