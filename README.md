@@ -72,4 +72,3 @@ Frontend Developer with hands on experience building responsive, user friendly w
 ## 🎓 Education   
 - **Bachelor of Computer Applications (BCA)** – *Deendayal Upadhyay Gorakhpur University (2022-2025)*  
 
----
